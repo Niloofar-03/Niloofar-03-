@@ -1,4 +1,4 @@
-# Niloofar-03's Professional Background
+# Niloofar Haghighi's Professional Background
 
 ## About Me
 I am a Cognitive Science-driven UI/UX Designer with a passion for creating inclusive and user-friendly digital experiences. My expertise spans various domains, particularly in AI-integrated healthcare solutions and accessibility tools. 
