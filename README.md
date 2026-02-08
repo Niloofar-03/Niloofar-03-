@@ -1,98 +1,36 @@
-# Hey there! 👋 I'm Niloofar
+# Niloofar-03's Professional Background
 
-**Cognitive Science-driven Product Designer | AI + Healthcare Enthusiast | Accessibility Advocate**
+## About Me
+I am a Cognitive Science-driven UI/UX Designer with a passion for creating inclusive and user-friendly digital experiences. My expertise spans various domains, particularly in AI-integrated healthcare solutions and accessibility tools. 
 
-I design intuitive, accessible interfaces for complex problems. My sweet spot is where **Cognitive Science meets Product Design**—building AI-integrated healthcare tools that don't just work, they feel natural.
+## Professional Experience
 
----
+### 1. UI/UX Designer
+* I have developed user-centered designs that enhance user satisfaction and accessibility in applications.
+* Collaborated with cross-functional teams to create intuitive designs for healthcare apps, focusing on integrating AI technology to improve patient outcomes.
 
-## 🎯 What I'm About
+### 2. AI-Integrated Healthcare
+* Led a project that integrated AI-driven features into a healthcare platform, enhancing user engagement and decision-making processes for both patients and providers.
+* Worked closely with medical professionals to ensure the designs meet clinical needs and improve usability. 
 
-I'm passionate about designing human-centered experiences that **reduce cognitive load** and **increase accessibility**. With a background in both design and engineering, I bridge the gap between what's technically possible and what's genuinely useful for users. My work focuses on:
+### 3. Accessibility Advocate
+* Committed to designing for all users, including those with disabilities. Ensured compliance with accessibility standards (WCAG) in all projects.
+* Conducted user testing with diverse participants to gather feedback and iterate on design improvements.
 
-- 🏥 **Healthcare & Wellness Tech** — Designing for users who need clarity, not complexity
-- 🤖 **Human-Centered AI** — Making AI systems understandable and trustworthy
-- ♿ **Accessibility-First Design** — Because inclusion isn't optional, it's fundamental
-- 🧠 **Cognitive Science Applications** — Using research insights to design smarter interfaces
+### 4. Leadership Experience
+* Mentored junior designers and led design sprints, facilitating collaboration and innovation in projects.
+* Participated in strategic meetings to align design goals with business objectives, advocating for user needs and experience. 
 
----
+## Skills
+- **Design Tools:** Figma, Sketch, Adobe Creative Suite  
+- **Prototyping:** InVision, Marvel
+- **Research:** User Interviews, Usability Testing, A/B Testing
+- **Accessibility:** WCAG Compliance, ARIA Standards 
+- **Development:** Basic knowledge of HTML/CSS
 
-## 💼 Skills & Expertise
+## Education
+- **Bachelor's Degree in Cognitive Science**  
+  University Name (Graduation Year)
 
-**Design & Prototyping:**
-- Figma • Wireframing & High-fidelity Design • Interactive Prototypes • Design Systems
-- User Research & Testing • Usability Audits • Accessibility Audits (WCAG 2.1)
-
-**Development:**
-- React • TypeScript • CSS/Responsive Design • Component Libraries
-- Translating designs to code without losing the vision
-
-**Research & Strategy:**
-- Cognitive Science Research • HCI Principles • User Journey Mapping
-- AI Literacy & Explainability • Healthcare UX Principles
-
----
-
-## 🚀 Featured Projects
-
-*Coming soon! Stay tuned for projects showcasing accessible design systems, healthcare interfaces, and AI-integrated product work.*
-
----
-
-## 🧠 My Design Philosophy
-
-**1. Cognitive Load is Currency**
-Users have limited attention. Every interface element should earn its place. I obsess over information architecture, mental models, and reducing unnecessary complexity.
-
-**2. Accessibility Isn't a Feature, It's a Requirement**
-Designing for accessibility makes products better for *everyone*. WCAG compliance isn't my ceiling—it's my floor.
-
-**3. Research-Informed > Opinion-Driven**
-Whether it's cognitive science research or user testing, I let data guide decisions. Assumptions are the enemy of good design.
-
-**4. Bridge the Designer-Developer Gap**
-I code my prototypes and understand technical constraints. This means I design *with* engineers, not at them.
-
----
-
-## 🎓 Currently Learning
-
-- Advanced AI/ML interactions and explainability
-- Neuroergonomics in healthcare UX
-- Inclusive design patterns for AI systems
-
----
-
-## 💡 Interests
-
-- 🏥 Digital health innovation
-- 🤖 Responsible AI & AI literacy
-- 🧠 Cognitive Science applications in UX
-- 🌍 Accessible design for underserved communities
-- 📊 Data visualization for complex healthcare data
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in:
-- Collaborating on **healthcare or AI projects** with a human-centered focus
-- Discussing **accessibility, cognitive science, and design research**
-- Contributing to **open-source design systems and tools**
-- Mentoring designers interested in **specialized domains** (healthcare, AI, accessibility)
-
-📧 Feel free to reach out if you're working on something meaningful!
-
----
-
-## 📌 Values
-
-✨ **Human-centered** — Users first, always  
-🎯 **Impact-driven** — Design should solve real problems  
-📚 **Learning-oriented** — The field evolves; so do I  
-🤝 **Collaborative** — Great design is a team sport  
-♿ **Inclusive** — Design for everyone, not the average
-
----
-
-**Thanks for stopping by! Explore my repositories, and let's build something that makes a difference.** 💪
+## Contact
+Connect with me on LinkedIn: [Your LinkedIn URL] or email me at [Your Email].  
