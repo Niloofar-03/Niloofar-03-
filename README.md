@@ -131,9 +131,9 @@ Figma • Canva • Balsamiq • Miro • Notion • Procreate • Google Studio
 ## 🔗 Let's Connect
 
 - 💼 **GitHub:** [github.com/Niloofar-03](https://github.com/Niloofar-03)
-- 📧 **Email:** [Your Email]
-- 🔗 **LinkedIn:** [Your LinkedIn Profile]
-- 🎨 **Portfolio:** [Your Portfolio Link]
+- 📧 **Email:** [haghighiniloofarr@gmail.com]
+- 🔗 **LinkedIn:** [www.linkedin.com/in/niloofarhaghighi]
+- 🎨 **Portfolio:** []
 
 ---
 
