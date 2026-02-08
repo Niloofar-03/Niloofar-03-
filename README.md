@@ -33,4 +33,4 @@ I am a Cognitive Science-driven UI/UX Designer with a passion for creating inclu
   University Name (Graduation Year)
 
 ## Contact
-Connect with me on LinkedIn: [Your LinkedIn URL] or email me at [Your Email].  
+Connect with me on LinkedIn: www.linkedin.com/in/niloofarhaghighi or email me at haghighiniloofarr@gmail.com  
